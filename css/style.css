@@ -572,7 +572,7 @@ figure {
 }
 
 .fh5co-section-gray {
-  background: #F6FAF7;
+  background: #B7B3B2;
 }
 
 .heading-section {
@@ -584,7 +584,7 @@ figure {
   font-size: 50px;
   font-weight: 300;
   position: relative;
-  color: #F69D9D;
+  color: white;
 }
 
 .heading-section p {
@@ -695,6 +695,14 @@ figure {
 
 .wedding-events .desc p strong {
   font-size: 14px;
+}
+
+.transport-info {
+  padding: 1em;
+}
+
+.transport-info-text {
+  margin: 0;
 }
 
 #fh5co-started {
